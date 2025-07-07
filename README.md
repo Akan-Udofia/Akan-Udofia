@@ -16,4 +16,13 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
  ![image](https://github.com/user-attachments/assets/9aca9c1b-fc28-45dc-8916-fb9808ad5a59)
 
- 
+### Contact me
+[Email](akan.udofia1@gmail.com)
+
+
+
+[LinkedIn](https://linkedin.com/in/akan-udofia1) 
+
+
+
+[X](https://x.com/@AkanUdofia3)
