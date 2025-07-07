@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, my name is Akan Udofia👋
 
-<!--
-**Akan-Udofia/Akan-Udofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am an IT Support Specialist | Web Designer | Electrical/Electronics Engineer
 
-Here are some ideas to get you started:
+🔭   I am an experienced IT Support Specialist, Web Designer and Electrical Engineer with a strong background in troubleshooting, system maintenace and front-end development 
+    specialised in providing reliable technical support, resolving complex IT issues and creating  user friendly, responsive websites that meet business goals and enhance user 
+    experience
+- 🌱 I’m currently learning data science and artificial Intelligence
+- 👯 I’m looking to collaborate with internship and research opportunities on AI, networking and building machine learning projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about how to go about learning web design
+
+- 📊 I am a smart IT Support Specialist, Web Designer and Electrical/Electronics Engineer with expertise in network troubleshooting, web designing and substation installation for over 7 years.
+    
+ 
